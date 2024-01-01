@@ -14,12 +14,12 @@ coins are awarded, a podium and scoreboard are displayed, and the player
 with the least amount of coins will be eliminated before the next room. If the main player
 (the user) gets eliminated before completing all the rooms the game will end.
 
-Escape Room Class 
+1. Escape Room Class 
 - Electrical Room + Graphics
 - Fishing Room + Graphics
 - Literary Lab Room + Graphics
 - Potion Lab Room + Graphics
 
-Player Class
+2. Player Class
 
 The objective of the game is to not be eliminated and to have the most amount of coins after completing all of the Escape Rooms.
